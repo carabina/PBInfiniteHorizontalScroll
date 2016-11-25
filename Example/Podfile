@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PBInfiniteHorizontalScroll_Example' do
+  pod 'PBInfiniteHorizontalScroll', :path => '../'
+
+  target 'PBInfiniteHorizontalScroll_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
