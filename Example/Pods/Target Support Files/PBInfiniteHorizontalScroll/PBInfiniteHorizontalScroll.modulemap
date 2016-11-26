@@ -1,0 +1,6 @@
+framework module PBInfiniteHorizontalScroll {
+  umbrella header "PBInfiniteHorizontalScroll-umbrella.h"
+
+  export *
+  module * { export * }
+}

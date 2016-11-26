@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PBInfiniteHorizontalScroll (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PBInfiniteHorizontalScroll (from `../`)
+
+EXTERNAL SOURCES:
+  PBInfiniteHorizontalScroll:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: '094f9f314decbabe373b87cc339bea235a63e07a'
+  PBInfiniteHorizontalScroll: 4a1692bdd89c5a77eb7c9eae216f3a9eef92bb80
+
+PODFILE CHECKSUM: 0efd6aa5c9460842b060cb395ddb14c84f875df5
+
+COCOAPODS: 1.1.1

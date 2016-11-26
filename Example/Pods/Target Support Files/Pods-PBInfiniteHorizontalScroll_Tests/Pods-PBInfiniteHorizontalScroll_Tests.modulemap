@@ -1,0 +1,6 @@
+framework module Pods_PBInfiniteHorizontalScroll_Tests {
+  umbrella header "Pods-PBInfiniteHorizontalScroll_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
